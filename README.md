@@ -2,4 +2,4 @@
 Technical Documentation Page (Ejercicio de freecodecamp)
 
 
-Link de despliegue: 
+Link de despliegue: https://silviajcn.github.io/Technical-Documentation-Page/
